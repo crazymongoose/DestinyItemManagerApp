@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?><widget id="com.your.company.BNextNotifier" version="1.4.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>BNextNotifier</name>
+    <description>Displays notifications for bungie.net</description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">dazarobbo</author>
+    <content src="plugins/org.chromium.bootstrap/chromeapp.html"/>
+    
+<preference name="android-minSdkVersion" value="14"/><platform name="android"/><platform name="ios"/><access origin="*://*.bungie.net/*"/></widget>
